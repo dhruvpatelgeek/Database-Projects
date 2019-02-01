@@ -1,2 +1,2 @@
-# C--School-Projects
-Database projects in C++
+# C++School-Projects
+The Follwoing are my database projects that i have created in C++
