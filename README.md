@@ -22,4 +22,4 @@ display_intl
 			
 recharge
 
-I stores the output in a txt file and access it using fstream
+It stores the output in a txt file and access it using fstream
